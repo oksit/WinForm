@@ -1,0 +1,10 @@
+E:\Учеба\Проекты\authentiacftion\authentiacftion\bin\Debug\authentiacftion.exe.config
+E:\Учеба\Проекты\authentiacftion\authentiacftion\bin\Debug\authentiacftion.exe
+E:\Учеба\Проекты\authentiacftion\authentiacftion\bin\Debug\authentiacftion.pdb
+E:\Учеба\Проекты\authentiacftion\authentiacftion\obj\Debug\authentiacftion.csprojResolveAssemblyReference.cache
+E:\Учеба\Проекты\authentiacftion\authentiacftion\obj\Debug\authentiacftion.Form1.resources
+E:\Учеба\Проекты\authentiacftion\authentiacftion\obj\Debug\authentiacftion.Properties.Resources.resources
+E:\Учеба\Проекты\authentiacftion\authentiacftion\obj\Debug\authentiacftion.csproj.GenerateResource.Cache
+E:\Учеба\Проекты\authentiacftion\authentiacftion\obj\Debug\authentiacftion.exe
+E:\Учеба\Проекты\authentiacftion\authentiacftion\obj\Debug\authentiacftion.pdb
+E:\Учеба\Проекты\authentiacftion\authentiacftion\obj\Debug\authentiacftion.Form2.resources
