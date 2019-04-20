@@ -95,6 +95,12 @@ namespace authentiacftion
                 textBox4.ForeColor = Color.Gray;
             }
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            textBox1.Multiline = true;
+            textBox1.Height = 132;
+        }
     }
 }
 
