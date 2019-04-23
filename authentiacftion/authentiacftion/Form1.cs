@@ -15,8 +15,8 @@ namespace authentiacftion
         public Form1()
         {
             InitializeComponent();
-            Text = "                                                                               Authentication";
-                    }
+            Text = "                                                                Authentication";
+                    }  
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -33,31 +33,16 @@ namespace authentiacftion
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        { 
-    }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button4_Click(object sender, EventArgs e)
+        private void createBtn_Click(object sender, EventArgs e)
         {
             Form2 fr2 = new Form2();
             fr2.Show();
-          //  Hide();
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-            Form2 fr2 = new Form2();
-            fr2.Show();
+            this.Hide();
         }
     }
+
+
+
+   
+    
 }
