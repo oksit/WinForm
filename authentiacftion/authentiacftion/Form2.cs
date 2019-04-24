@@ -17,7 +17,7 @@ namespace authentiacftion
         public Form2()
         {
             InitializeComponent();
-            Text = "                                                                            Registration";
+            Text = " Registration";
             textBox1.Validating+= textBox1_Validating;
 
 
@@ -202,7 +202,15 @@ namespace authentiacftion
 
         private void button5_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Registration completed successfully!!!");
+            User e1 = new User();
+            e1.Username = "Claude Vige - 2222";
+            e1.Password = "12123123";
+            e1.Email = "Claude@mail.ru";
+
+            System.Console.WriteLine("Employee name: {0}", e1.Username);
+            Text = "Registration completed successfully : Login - " + e1.Username
+                + "Password - " + e1.Password + "Email - " + e1.Email;
+            MessageBox.Show(Text);
             this.Close();
         }
     }
