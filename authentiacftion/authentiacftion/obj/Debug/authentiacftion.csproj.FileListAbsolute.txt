@@ -36,3 +36,14 @@ C:\Users\Teacher\Desktop\materials_for_game_in_VN_10.2018\WinForm\authentiacftio
 C:\Users\Teacher\Desktop\materials_for_game_in_VN_10.2018\WinForm\authentiacftion\authentiacftion\obj\Debug\authentiacftion.Form2.resources
 C:\Users\Teacher\Desktop\materials_for_game_in_VN_10.2018\WinForm\authentiacftion\authentiacftion\obj\Debug\authentiacftion.Properties.Resources.resources
 C:\Users\Teacher\Desktop\materials_for_game_in_VN_10.2018\WinForm\authentiacftion\authentiacftion\obj\Debug\authentiacftion.csproj.GenerateResource.Cache
+D:\БГУ\БГУ(Программирование)\8. Управление разработкой программного обеспечения (Брухан Татьяна)\WinForm\authentiacftion\authentiacftion\bin\Debug\authentiacftion.exe.config
+D:\БГУ\БГУ(Программирование)\8. Управление разработкой программного обеспечения (Брухан Татьяна)\WinForm\authentiacftion\authentiacftion\bin\Debug\authentiacftion.exe
+D:\БГУ\БГУ(Программирование)\8. Управление разработкой программного обеспечения (Брухан Татьяна)\WinForm\authentiacftion\authentiacftion\bin\Debug\authentiacftion.pdb
+D:\БГУ\БГУ(Программирование)\8. Управление разработкой программного обеспечения (Брухан Татьяна)\WinForm\authentiacftion\authentiacftion\obj\Debug\authentiacftion.csprojAssemblyReference.cache
+D:\БГУ\БГУ(Программирование)\8. Управление разработкой программного обеспечения (Брухан Татьяна)\WinForm\authentiacftion\authentiacftion\obj\Debug\authentiacftion.Form1.resources
+D:\БГУ\БГУ(Программирование)\8. Управление разработкой программного обеспечения (Брухан Татьяна)\WinForm\authentiacftion\authentiacftion\obj\Debug\authentiacftion.Form2.resources
+D:\БГУ\БГУ(Программирование)\8. Управление разработкой программного обеспечения (Брухан Татьяна)\WinForm\authentiacftion\authentiacftion\obj\Debug\authentiacftion.Properties.Resources.resources
+D:\БГУ\БГУ(Программирование)\8. Управление разработкой программного обеспечения (Брухан Татьяна)\WinForm\authentiacftion\authentiacftion\obj\Debug\authentiacftion.csproj.GenerateResource.cache
+D:\БГУ\БГУ(Программирование)\8. Управление разработкой программного обеспечения (Брухан Татьяна)\WinForm\authentiacftion\authentiacftion\obj\Debug\authentiacftion.csproj.CoreCompileInputs.cache
+D:\БГУ\БГУ(Программирование)\8. Управление разработкой программного обеспечения (Брухан Татьяна)\WinForm\authentiacftion\authentiacftion\obj\Debug\authentiacftion.exe
+D:\БГУ\БГУ(Программирование)\8. Управление разработкой программного обеспечения (Брухан Татьяна)\WinForm\authentiacftion\authentiacftion\obj\Debug\authentiacftion.pdb

@@ -160,7 +160,7 @@ namespace authentiacftion
         {
             Regex login_regex = new Regex("^([a-zA-Z0-9._]+)@(([[0-9]{1,3}" +
                                             @"\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\" +
-                                            @".)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$");
+                                            @".)+))([a-zA-Z]{2,8}|[0-9]{1,3})(\]?)$");
 
 
             if (login_regex.Match(textBox2.Text).Success) // если совпадение удачно 
