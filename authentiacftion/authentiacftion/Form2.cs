@@ -132,7 +132,10 @@ namespace authentiacftion
 
         private void Form2_Load(object sender, EventArgs e)
         {
-
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label3.BackColor = System.Drawing.Color.Transparent;
+            this.label4.BackColor = System.Drawing.Color.Transparent;
         }
 
         private void Form2_FormClosed(object sender, FormClosedEventArgs e)
@@ -212,6 +215,13 @@ namespace authentiacftion
                 + "Password - " + e1.Password + "Email - " + e1.Email;
             MessageBox.Show(Text);
             this.Close();
+        }
+
+        private void back_Click(object sender, EventArgs e)
+        {
+            Form1 fr2 = new Form1();
+            fr2.Show();
+            this.Hide();
         }
     }
 }

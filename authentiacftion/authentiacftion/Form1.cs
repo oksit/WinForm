@@ -20,6 +20,9 @@ namespace authentiacftion
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label5.BackColor = System.Drawing.Color.Transparent;
 
         }
 
