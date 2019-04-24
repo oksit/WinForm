@@ -154,7 +154,7 @@ namespace authentiacftion
             }
             else
             {
-                errorProvider1.SetError(textBox1, "From 3 to 9 characters");
+                errorProvider1.SetError(textBox1, "Only word and letter values");
             }
 
         }
